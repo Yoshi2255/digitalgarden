@@ -7,5 +7,5 @@ Races that are considered [[Items & Concepts/subterranean races\|subterranean ra
 - Orc
 - Goblin
 - Hobgoblin
-- Kobold (though many disagree with that classification because Kobolds are ever-present in the world and didn't participate in the enslavement of [[Items & Concepts/terrestrial humanoids\|terrestrial humanoids]]. But because their origin isn't commonly known so they are assumed to be [[Items & Concepts/subterranean races\|subterranean races]])
+- Kobold (though many disagree with that classification because Kobolds are ever-present in the world and didn't participate in the enslavement of [[Items & Concepts/terrestrial humanoids\|terrestrial humanoids]]. But because their origin isn't commonly known they are assumed to be [[Items & Concepts/subterranean races\|subterranean races]])
 - Drow Elf
